@@ -1,1 +1,3 @@
-# Scrimba-Personal-Business-Cart
+# Business-Cart
+
+<img src="images/overview.gif">
