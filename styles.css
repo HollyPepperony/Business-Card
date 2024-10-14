@@ -5,6 +5,7 @@ body {
 
 .avatar {
     width: 150px;
+    border-radius: 12px;
 }
 
 .card {
@@ -18,4 +19,6 @@ body {
     background: #fdfcdc;
     color: #f07167;
     border-bottom: 6px solid #fed9b7;
+
+    border-radius: 14px;
 }
